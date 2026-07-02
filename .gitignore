@@ -1,0 +1,13 @@
+# ns-3 / build artifacts
+build/
+*.o
+*.pcap
+
+# Python
+__pycache__/
+*.py[cod]
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
